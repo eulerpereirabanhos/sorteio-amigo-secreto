@@ -1,2 +1,2 @@
-# soteio-amigo-secreto
+# sorteio-amigo-secreto
 desafio realizado
